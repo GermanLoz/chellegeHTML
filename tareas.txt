@@ -1,0 +1,8 @@
+1) Crear una menu de navegacion con sus etiquetas respectivas
+2) En Home habra contenido principal con titulo e imagen de un producto
+3) En Home debera estar incluida una barra lateral con la etiqueta aside
+4) El contenido de la barra lateral, tendra que tener un formulario de login (solo estructura html)
+6) El html de contactos debera tener numero redes sociales etc, y un formulario para enviar consultas
+sobre el producto (solo estructura HTML)
+7) En el HTML productos debera haber titulo, imagen del producto y descripcion
+8) Incluir un footer (Lo que tienen las paginas web al final del contenido)
